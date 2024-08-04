@@ -55,7 +55,7 @@ env:
 
 
   #artifact registery
-  GAR_LOCATION: YOUR_GAR_LOCATION # TODO: update Artifact Registry location
+  GAR_LOCATION: us-central1	 # TODO: update Artifact Registry location
   IMAGE: MY_IMAGE
   REPO: MY_REPO
 
