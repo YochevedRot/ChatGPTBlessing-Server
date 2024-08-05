@@ -58,7 +58,7 @@ env:
   #artifact registery
   GAR_LOCATION: us-central1 # TODO: update Artifact Registry location
   IMAGE: MY_IMAGE
-  REPO: cloud-run-source-deploy
+  REPO: weighty-casing-431613-k3/cloud-run-source-deploy
 
 jobs:
   deploy:
