@@ -52,11 +52,11 @@ env:
   PROJECT_ID: weighty-casing-431613-k3 # TODO: update Google Cloud project id
 
   #cloud run
-  SERVICE: dotnet # TODO: update Cloud Run service name
+  SERVICE:  cloud-run-source-deploy # TODO: update Cloud Run service name
   REGION: us-central1 # TODO: update Cloud Run service region
 
   #artifact registery
-  GAR_LOCATION: YOUR_GAR_LOCATION # TODO: update Artifact Registry location
+  GAR_LOCATION: us-central1 # TODO: update Artifact Registry location
   IMAGE: MY_IMAGE
   REPO: MY_REPO
 
